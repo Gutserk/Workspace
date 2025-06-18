@@ -1,8 +1,5 @@
 # 💫 About Me:
 Hello! I'm Mirza, an informatic engineering student with a strong passion for front-end development and machine learning. I enjoy building responsive, user-friendly, and AI-powered web applications that blend design and functionality.<br><br>I’m experienced with:<br>💻 NextJs, Laravel, and Tailwind CSS<br>🎨 UI/UX implementation<br>🧠 AI/ML integrations for smart applications<br>🤝 Team collaboration and problem-<br><br>Currently, I’m actively exploring how artificial intelligence can enhance user experiences and help solve real-world problems through technology.<br><br>Let’s connect and build something great together!
-
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mirzaardanas/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mirzaardanas/) 
 
 # 💻 Tech Stack:
