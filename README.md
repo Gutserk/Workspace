@@ -14,4 +14,3 @@ Solving, Communication, Adaptability <br><br>Currently, I’m actively exploring
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-rwewefsf
